@@ -3,6 +3,8 @@ email: hashadev@yandex.ru
 description: JavaScript and Python 3 developer.
 github_username: hasha2982
 
+#rooturl: http://localhost:4000/
+
 theme: jekyll-theme-hacker
 
 plugins:
