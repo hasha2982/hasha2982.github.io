@@ -2,6 +2,9 @@
 layout: post
 title: "License update"
 date: "2020-06-14"
+tags:
+  - update
+  - legal
 ---
 
 There is an update on this site that adds:

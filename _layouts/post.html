@@ -27,6 +27,16 @@
         <hr>
         {{ content }}
         <hr>
+        <div id="hyvor-talk-view"></div>
+        <script type="text/javascript">
+            var HYVOR_TALK_WEBSITE = 1776; // DO NOT CHANGE THIS
+            var HYVOR_TALK_CONFIG = {
+                url: '{{ page.url | absolute_url }}',
+                id: '{{page.id}}'
+            };
+        </script>
+        <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+        <hr>
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The contents of this website are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
       </section>
     </div>
