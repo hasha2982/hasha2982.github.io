@@ -7,7 +7,7 @@ tags:
   - markdown
 ---
 
-Today I added the ability to comment on this site. It was implemented with [Hyvor Talk](talk.hyvor.com), a free and privacy-focused commenting system. (**This is not an advertising!**)
+Today I added the ability to comment on this site. It was implemented with [Hyvor Talk](https://talk.hyvor.com), a free and privacy-focused commenting system. (**This is not an advertising!**)
 
 You can try it out right now: the comment section is below.
 
